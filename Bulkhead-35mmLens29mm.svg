@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1561 750" style="enable-background:new 0 0 1561 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3953A4;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>Bulkhead-35mm</title>
+<line class="st0" x1="1084.6" y1="687.1" x2="1076.3" y2="698.9"/>
+<line class="st0" x1="1102" y1="698.1" x2="1091.2" y2="716.8"/>
+<line class="st0" x1="1120.2" y1="707.6" x2="1114.1" y2="720.7"/>
+<line class="st0" x1="1158.9" y1="721.7" x2="1155.2" y2="735.7"/>
+<line class="st0" x1="1139.3" y1="715.5" x2="1131.9" y2="735.7"/>
+<g>
+	<g id="LWPOLYLINE-2_1_">
+		<path class="st1" d="M398.9,309.2V153.3h-8.3v155.9h-5.8c-15.6,0-28.3-12.6-28.3-28.2c0,0,0,0,0-0.1v-156
+			c-0.1-15.6,12.5-28.2,28.1-28.3h0.1h198.4c15.6,0,28.3,12.6,28.3,28.2c0,0,0,0,0,0.1v155.9c0,15.6-12.6,28.3-28.2,28.3
+			c0,0,0,0-0.1,0h-5.8V153.3H569v155.9"/>
+	</g>
+	<line class="st1" x1="569.1" y1="309.4" x2="398.8" y2="309.4"/>
+</g>
+<g id="CIRCLE_1_">
+	<path class="st1" d="M483.9,252.5c-22.7,0-41.1-18.4-41.1-41.1s18.4-41.1,41.1-41.1s41.1,18.4,41.1,41.1l0,0
+		C525,234.1,506.6,252.5,483.9,252.5z"/>
+</g>
+<g>
+	<g id="LWPOLYLINE-2_2_">
+		<path class="st1" d="M666.8,313.9V158h-8.3v155.9h-5.8c-15.6,0-28.3-12.6-28.3-28.2c0,0,0,0,0-0.1v-156
+			c-0.1-15.6,12.5-28.2,28.1-28.3h0.1H851c15.6,0,28.3,12.6,28.3,28.2c0,0,0,0,0,0.1v155.9c0,15.6-12.6,28.3-28.2,28.3
+			c0,0,0,0-0.1,0h-5.8V158h-8.3v155.9"/>
+	</g>
+	<line class="st1" x1="837" y1="314.1" x2="666.7" y2="314.1"/>
+</g>
+<g id="CIRCLE_2_">
+	<path class="st1" d="M751.8,234.5c-10.2,0-18.4-8.2-18.4-18.4c0-10.2,8.2-18.4,18.4-18.4s18.4,8.2,18.4,18.4l0,0
+		C770.2,226.3,762,234.5,751.8,234.5z"/>
+</g>
+<rect x="737.7" y="190.1" transform="matrix(6.123234e-17 -1 1 6.123234e-17 557.5751 946.1541)" class="st1" width="28.3" height="8.3"/>
+<rect x="744.8" y="186.2" class="st1" width="14.2" height="5.7"/>
+<line class="st1" x1="751.8" y1="251.7" x2="751.7" y2="217.4"/>
+<rect x="744.7" y="166.7" class="st1" width="14.2" height="13.4"/>
+<rect x="718.7" y="222.7" transform="matrix(-0.866 0.5 -0.5 -0.866 1480.9921 57)" class="st1" width="28.3" height="8.3"/>
+<rect x="721.2" y="226.7" transform="matrix(-0.5 -0.866 0.866 -0.5 893.6422 975.0479)" class="st1" width="14.2" height="5.7"/>
+<rect x="707.7" y="230.7" transform="matrix(-0.5 -0.866 0.866 -0.5 866.6355 975.1939)" class="st1" width="14.2" height="13.4"/>
+<rect x="756.4" y="222.9" transform="matrix(0.866 0.5 -0.5 0.866 216.7737 -354.888)" class="st1" width="28.3" height="8.3"/>
+<rect x="768.1" y="226.9" transform="matrix(-0.5 0.866 -0.866 -0.5 1361.6987 -326.7818)" class="st1" width="14.2" height="5.7"/>
+<rect x="781.6" y="230.7" transform="matrix(-0.5 0.866 -0.866 -0.5 1388.7054 -326.9278)" class="st1" width="14.2" height="13.4"/>
+</svg>
